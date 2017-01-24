@@ -2,8 +2,8 @@
 
 int x = 60; // x-coordinate
 int y = 420; // y-coordinate
-int bodyHeight = 50; // Body Height
-int neckHeight = 80; // Neck Height
+int bodyHeight = 110; // Body Height
+int neckHeight = 140; // Neck Height
 int radius = 45; // Head Radius
 int ny = y - bodyHeight - neckHeight - radius; // Neck Y
 size(170, 480);
