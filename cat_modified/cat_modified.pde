@@ -1,3 +1,5 @@
+//Blake Brown 1/24/17
+
 int x = 240;
 int y = 120;
 int c = 150;
